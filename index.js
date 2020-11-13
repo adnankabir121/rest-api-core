@@ -84,3 +84,10 @@
         ]
     ]
 */
+
+// Step 5: Accessing these data 
+/*
+    users[0].name
+    users[2].password
+    users[11].email
+*/
